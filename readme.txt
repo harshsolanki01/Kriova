@@ -4,6 +4,7 @@
 
 ### place the folder as such the url of site must be like  e.g. http://localhost/kriova/ for homepage and http://localhost/kriova/login for login page
 
+### for database creaete a new sql database with name "kriova" and import data from kriova.sql file given
 
 Server used = wammp Server
 PHP Version 7.4.26
